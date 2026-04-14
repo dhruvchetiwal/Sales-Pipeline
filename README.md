@@ -49,3 +49,15 @@ Sales_Pipeline/
 
 - **Load:**  
   Cleaned data is loaded back into SQL Server (final tables)
+
+
+## ▶️ How to Run
+
+1. Clone the repository  
+2. Install dependencies  
+   pip install -r requirements.txt  
+
+3. Configure environment variables in `.env`  
+
+4. Run the pipeline  
+   python Main_Pipeline.py
